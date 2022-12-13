@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+#My favorite movies
+- StrangerThings
+- Money Heist
+- Sex Education
